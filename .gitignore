@@ -1,0 +1,12 @@
+/.idea
+/.vagrant
+
+/.vscode
+*.code-workspace
+*~
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+/database
+/docker/postgres/data
